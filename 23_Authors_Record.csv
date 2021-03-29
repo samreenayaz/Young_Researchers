@@ -1,0 +1,88 @@
+23 Authors record having h-index ‘1’ in 2007,,,,
+Sr. No.,authorID,authorName,paperID,Title
+1,1589581,Alexander Adli,1031502,Piano Sound Characteristics: a Study on Some Factors Affecting Loudness in Digital and Acoustic Pianos
+,,,1154450,A Content Dependent Visualization System for Symbolic Representation of Piano Stream
+,,,1154451,Audio Watermarking Based on the Psychoacoustic Model and Modulated Complex Lapped Transform
+2,1461854,Ishan Vaishnavi,1033012,Media Presentation Synchronisation for Non-monolithic Rendering Architectures
+,,,1070332,Multimedia content management support in next generation service platforms
+,,,1293782,NeighbourCast: a synchronisation algorithm for ad hoc networks
+3,1434309,Stefan Galler,977842,Interactive presentation: Automatic hardware synthesis from specifications: a case study
+,,,1014810,"Specify, Compile, Run: Hardware from PSL"
+,,,1397985,Anzu: a tool for property synthesis
+4,1421284,Vinh Ninh Dao,967148,VisiCon: a robot control interface for visualizing manipulation using a handheld projector
+,,,987624,CoGAME: manipulation using a handheld projector
+,,,1015036,A semi-automatic realtime calibration technique for a handheld projector
+,,,,
+5,1371156,Christian Wolter,1004760,Collaborative Workflow Management for eGovernment
+,,,1101542,"A Simple, Smart and Extensible Framework for Network Security Measurement"
+,,,1407070,Deriving XACML policies from business process models
+,,,1415574,Modeling of task-based authorization constraints in BPMN
+6,1312905,Sideny Youlou,1033218,An Efficient Parallel Algorithm for the Longest Increasing Subsequence Problem on a LARPBS
+,,,1075292,Repetitions detection on a linear array with reconfigurable pipelined bus system
+,,,1415633,An efficient sequence alignment algorithm on a LARPBS
+7,1272674,Gaëlle Loosli,961255,"Comments on the ""Core Vector Machines: Fast SVM Training on Very Large Data Sets"""
+,,,1097907,Regularization Paths for SVM and SVR
+8,1214927,A. Gürhan Kök,1190846,Category Management and Coordination in Retail Assortment Planning in the Presence of Basket Shopping Consumers
+,,,1191116,Inspection and Replenishment Policies for Systems with Inventory Record Inaccuracy
+,,,1191121,Implementation of the Newsvendor Model with Clearance Pricing: How to (and How Not to) Estimate a Salvage Value
+,,,1191223,Demand Estimation and Assortment Optimization Under Substitution: Methodology and Application
+9,1135488,Kristene Unsworth,961073,"Mobile government fieldwork: a preliminary study of technological, organizational, and social challenges"
+,,,1023947,Choices and challenges in e-government field force automation projects: insights from case studies
+,,,1914500,"E-government field force automation: promises, challenges, and stakeholders"
+10,1125613,Luis H. Garcia-Munoz,962425,Recovery Protocols for Replicated Databases--A Survey
+,,,982184,Optimizing Certification-Based Database Recovery
+,,,1409499,Reviewing amnesia support in database recovery protocols
+,,,1409999,Improving recovery in weak-voting data replication
+11,1073226,Pei-Luen Patrick Rau,1397155,Provide context-aware advertisements with interactivity
+,,,1397252,A survey of factors influencing people's perception of information security
+,,,1397260,Relevance measurement on chinese search results
+,,,1399821,Developing instrument for handset usability evaluation: a survey study
+,,,1399822,Tips for designing mobile phone web pages for the elderly
+,,,1399832,Design effective navigation tools for older web users
+,,,1399840,Effects of time orientation on design of notification systems
+,,,1399849,The impact of moving around and zooming of objects on users' performance in web pages: a cross-generation study
+,,,1399854,Perception of movements and transformations in flash animations of older adults
+,,,1916357,Player immersion in the computer game narrative
+12,1049861,Hui Ye,1214073,Training a real-world POMDP-based dialogue system
+,,,1265104,Agenda-based user simulation for bootstrapping a POMDP dialogue system
+,,,1265136,The hidden information state dialogue manager: a real-world POMDP-based system
+13,1016739,Brian Allen,983245,On the beat!: timing and tension for dynamic characters
+,,,984921,A dynamic controller toolkit
+,,,989226,Environment-based physical motion for secondary characters
+14,964252,Hildur Olafsdottir,1396452,Sparse statistical deformation model for the analysis of craniofacial malformations in the Crouzon mouse
+,,,1396522,Robust pseudo-hierarchical support vector clustering
+,,,1396531,A statistical model of head asymmetry in infants with deformational plagiocephaly
+,,,1402556,A point-wise quantification of asymmetry using deformation fields: application to the study of the Crouzon mouse model
+15,658560,William Cameron,945047,Towards a syllabus repository for computer science courses
+,,,967313,Automatic syllabus classification
+,,,1406469,Using automatic metadata extraction to build a structured syllabus repository
+16,525285,Mirco Stern,956598,"DIANE: an integrated approach to automated service discovery, matchmaking and composition"
+,,,956598,
+,,,956598,
+,,,1151240,"DIANE: A Matchmaking-Centered Framework for Automated Service Discovery, Composition, Binding, and Invocation on the Web"
+,,,1208265,Optimal Locations for Join Processing in Sensor Networks
+17,521390,Bassem Elkarablieh,1001171,Starc: static analysis for efficient repair of complex data
+,,,1019208,Assertion-based repair of complex data structures
+,,,1916712,Efficiently generating structurally complex inputs with thousands of objects
+18,445880,Ravi Vaidyanathan,1016041,A Dual Mode Human-Robot Teleoperation Interface Based on Airflow in the Aural Cavity
+,,,1064455,Semi-autonomous micro robot control and video relay through internet and iridium networks
+,,,1785009,Tongue-Movement Communication and Control Concept for Hands-Free Human–Machine Interfaces
+19,366041,Shuangjia Chen,1403143,FBSA: a self-adjustable multi-source data scheduling algorithm for P2P media streaming
+,,,1403144,An optimized topology maintenance framework for P2P media streaming
+,,,1403151,QoS adaptive data organizing and delivery framework for P2P media streaming
+20,273876,Shachar Fienblit,946389,Distributed desk checking: Research Articles
+,,,978996,Architectures for controller based CDP
+,,,1411795,The advantages of post-link code coverage
+21,256987,Cristian Prisacariu,979278,Coordination by Timers for Channel-Based Anonymous Communications
+,,,1399493,A formal language for electronic contracts
+,,,1405216,Model checking contracts: a case study
+22,189583,Tonghua Su,977989,Corpus-based HIT-MW database for offline recognition of general-purpose Chinese handwritten text
+,,,1006502,HMM-Based Recognizer with Segmentation-free Strategy for Unconstrained Chinese Handwritten Text
+,,,1006703,Skew Detection for Chinese Handwriting by Horizontal Stroke Histogram
+,,,1398494,Gabor-based recognizer for Chinese handwriting from segmentation-free strategy
+23,50799,Hannes Moser,944333,Feedback arc set in bipartite tournaments is NP-complete
+,,,1402825,The parameterized complexity of the induced matching problem in planar graphs
+,,,1402825,
+,,,1402825,
+,,,1407157,The parameterized complexity of the unique coverage problem
+,,,1916617,Isolation concepts for enumerating dense subgraphs

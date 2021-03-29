@@ -1,0 +1,78 @@
+Detail of papers extended by 23 authors,,,,,
+Sr. No.,authorID,paperID,Extended(ref),Extended(Title),no_of_citations_of_extended(till 2007)
+1,1589581,1031502,,,
+,,1154450,,,
+,,1154451,,,
+2,1461854,1033012,"I. Vaishnavi, D. Bulterman, P. Cesar, B. Gao, and J. Jansen. Neighbourcast: A synchronisation algorithm for ad hoc networks. Accepted for publication in IASTED PDCS, 2007.",A synchronisation algorithm for ad hoc networks.,1
+,,1070332,,,
+,,1293782,,,
+3,1434309,977842,,,
+,,1014810,"R. Bloem, S. Galler, B. Jobstmann, N. Piterman, A. Pnueli, and M. Weiglhofer. Automatic hardware synthesis from specifications: A case study. In Proceedings of the Conference on Design, Automation and Test in Europe, 2007.", Automatic hardware synthesis from specifications: A case study.,5
+,,1397985,"Piterman, N., Pnueli, A., Sa’ar, Y.: Synthesis of reactive(1) designs. In: Proc. Verification, Model Checking, and Abstract Interpretation, pp. 364–380 (2006)","Synthesis of reactive(1) designs. In: Proc. Verification, Model Checking, and Abstract Interpretation",18
+4,1421284,967148,,,
+,,987624,,,
+,,1015036,,,
+5,1371156,1004760,"P. Schmitz, T. V. Cangh, and A. Boujraf, “R4eGov Deliverable WP3-D2 - Eurojust/ Europol collaboration.” www.r4egov.info, 2006.",,0
+,,1101542,"Cheng, F., Meinel, Ch.: Research on the Lock-Keeper Technology: Architectures, Applications and Advancements. International Journal of Computer & Information Science 5(3), 236–245 (2004)","Research on the Lock-Keeper Technology: Architectures, Applications and Advancements",5
+,,1407070,,,
+,,1415574,,,
+6,1312905,1033218,,,
+,,1075292,,,
+,,1415633,"Chen, L., Juan, C., Pan, Y.: Fast scable algorithm on LARPBS for sequence alignment. In: ISPA Workshops, pp. 176–185 (2005)", Fast scable algorithm on LARPBS for sequence alignment.,3
+7,1272674,961255,,,
+,,1097907,"Hastie, T., Rosset, S., Tibshirani, R., Zhu, J.: The entire regularization path for the support vector machine. Journal of Machine Learning Research 5 (2004) 13911415",The entire regularization path for the support vector machine,125
+,,1097907,"Gunter, L., Zhu, J.: Computing the solution path for the regularized support vector regression. In: NIPS. (2005)",Computing the solution path for the regularized support vector regression,6
+8,1214927,1190846,"Chen, Y., J.D. Hess, R.T. Wilcox, Z.J. Zhang. 1999. Accounting profits versus marketing profits: A relevant metric for category management. Marketing Science. 18 (3). 208-229.",Accounting profits versus marketing profits: A relevant metric for category management,43
+,,1191116,"DeCroix, G. A., V. S. Mookerjee. 1997. Purchasing demand information in a stochastic-demand inventory system. Eur. J. Oper. Res. 102 36–57.",Purchasing demand information in a stochastic-demand inventory system,23
+,,1191121,"Petruzzi, N., M. Dada. 2001. Information and inventory recourse for a two-market, price setting retailer. Manufacturing and Service Oper. Management . 3 242-263","Information and inventory recourse for a two-market, price setting retailer",29
+,,1191223,,,
+9,1135488,961073,"Smart, P.K., Brookes, N.J., Lettice, F.E., Backhouse, C.J. and Burns, N.D. A boundary-based view of product development: A feasibility study. Proceedings of the Institution of Mechanical Engineers, 216 (1). 1-12.",,10
+,,961073,"Taylor, J.R. and Van Every, E.J. The emergent organization: communication as its site and surface. Lawrence Erlbaum Associates, Mahwah, N.J., 2000.",,0
+,,1023947,,,
+,,1914500,,,
+10,1125613,962425,,,
+,,982184,,,
+,,1409499,"Luis H. Garc´?a-Munoz, ˜ J. Enrique Armendariz- ´ ´Inigo, ˜ Hendrik Decker, and Francesc D. Munoz-Esco ˜ ´?. Recovery protocols for replicated databases - a survey. In Workshop FINA-07, in the AINA-07 Conference. IEEE-CS Press, 2007. Accepted for Publication.",Recovery protocols for replicated databases - a survey,1
+,,1409999,"Armend´ariz, J.E., Mu˜noz, F.D., Decker, H., Ju´arez, J.R., de Mend´?vil, J.R.G.: A protocol for reconciling recovery and high-availability in replicated databases. In: Levi, A., Savas¸, E., Yenig¨un, H., Balc?soy, S., Sayg?n, Y. (eds.) ISCIS 2006. LNCS, vol. 4263, pp. 634–644. Springer, Heidelberg (2006)",A protocol for reconciling recovery and high-availability in replicated databases.,7
+11,1073226,1397155,,,
+,,1397252,"Yenisey, M.M., Ozok, A.A., Salvendy, G.: Perceived security determinants in e-commerce among Turkish university students. Behaviour & Information Technology 24(4), 259–274 (2005)",Perceived security determinants in e-commerce among Turkish university students,6
+,,1397260,,,
+,,1399821,"Ling, C., Hwang, W., Salvendy, G.: Diversified users’ satisfaction with advanced mobile phone features. Universal Access in the Information Society 5(2), 239–249 (2006)",Diversified users’ satisfaction with advanced mobile phone features.,2
+,,1399822,,,
+,,1399832,"Coyne, K., Nilsen, J.: Web Usability for Senior Citizens: 46 Design Guidelines Based on Usability Studies with People Age 65 and Older. In: Nielson Norman Group Report (2002)",Web Usability for Senior Citizens: 46 Design Guidelines Based on Usability Studies with People Age 65 and Older,21
+,,1399840,"McCrickard, D.S., Chewar, C.M., Somervell, J.P., Ndiwalana, A.: A model for notification systems evaluation-assessing user goals for multitasking activity. ACM Transactions on Computer-Human Interaction 10(4), 312–338 (2003)",A model for notification systems evaluation-assessing user goals for multitasking activity,74
+,,1399849,"Wang, L., Sato, H., Jin, L., Rau, P.P., Asano, Y.: Perception of Movements and Transformations in Flash Animations of Older Adults. In: 12th International Conference on HumanComputer Interaction",Perception of Movements and Transformations in Flash Animations of Older Adults,1
+,,1399854,,,
+,,1916357,,,
+12,1049861,1214073,,,
+,,1265104,,,
+,,1265136,,,
+13,1016739,983245,,,
+,,984921,,,
+,,989226,,,
+14,964252,1396452,"Olafsd´ ´ ottir, H., Darvann, T.A., Hermann, N.V., Oubel, E., Ersbøll, B.K., Frangi, A.F., Larsen, P., Perlyn, C.A., Morriss-Kay, G.M., Kreiborg, S.: Computational mouse atlases and their application to automatic assessment of craniofacial dysmorphology caused by Crouzon syndrome. Journal of Anatomy (submitted) (2007)",Computational mouse atlases and their application to automatic assessment of craniofacial dysmorphology caused by Crouzon syndrome,6
+,,1396522,"Sj¨ostrand, K., Larsen, R.: The entire regularization path for the support vector domain description. In: Larsen, R., Nielsen, M., Sporring, J. (eds.) MICCAI 2006. LNCS, vol. 4190, Springer, Heidelberg (2006)",The entire regularization path for the support vector domain description.,4
+,,1396531,"Darvann, T.A., Hermann, N.V., Tenenbaum, M.J., Govier, D., Naidoo, S., Larsen, P., Kreiborg, S., Kane, A.A.: Head shape development in positional plagiocephaly: Methods for registration of surface scans. In: proceedings: Darvann, T.A., Hermann, N.V., Larsen, P., Kreiborg, S. (eds.): ”Craniofacial Image Analysis for Biology, Clinical Genetics, Diagnostics and Treatment”, Workshop of the 9th MICCAI conference, Copenhagen, Denmark, pp. 59–66 (October 5) (2006)",Head shape development in positional plagiocephaly: Methods for registration of surface scans.,1
+,,1402556,"Olafsd´ ´ ottir, H., Darvann, T.A., Ersboll, B.K., Hermann, N.V., Oubel, E., Larsen, R., Frangi, A.F., Larsen, P., Perlyn, C.A., Morriss-Kay, G.M., Kreiborg, S.: Craniofacial statistical deformation models of wild-type mice and crouzon mice. In: Pluim, J.P.W., Reinhardt, J.M. (eds.) Medical Imaging 2007: Image Processing, SPIE, vol. 6512, p. 65121C (2007)",Craniofacial statistical deformation models of wild-type mice and crouzon mice.,5
+15,658560,945047,"M. Tungare, X. Yu, G. Teng, M. Perez-Qui  ? nones, E. Fox,  ? W. Fan, and L. Cassel. Towards a standardized representation of syllabi to facilitate sharing and personalization of digital library content. In Proceedings of the 4th International Workshop on Applications of Semantic Web Technologies for E-Learning (SW-EL), 2006.",Towards a standardized representation of syllabi to facilitate sharing and personalization of digital library content,5
+,,967313,,,
+,,1406469,,,
+16,525285,956598,"M. Klein and B. K¨onig-Ries. Coupled signature and specification matching for automatic service binding. In Proceedings of the European Conference on Web Services (ECOWS 2004), Erfurt, Germany, September 2004.",,25
+,,956598,"M. Klein and B. K¨onig-Ries. Integrating preferences into service requests to automate service usage. In First AKT Workshop on Semantic Web Services, Milton Keynes, UK, Dezember 2004.",,11
+,,956598,"M. Klein, B. K¨onig-Ries, and M. M¨ussig. What is needed for semantic service descriptions - a proposal for suitable language constructs. International Journal on Web and Grid Services (IJWGS), 1(3/4):328–364, 2005.",,30
+,,1151240,,,
+,,1208265,,,
+17,521390,1001171,,,
+,,1019208,,,
+,,1916712,"Khurshid, S., Garc ??a, I., Suen, Y.L.: Repairing structurally complex data. In: Proc. 12th SPIN Workshop on Software Model Checking (2005)", Repairing structurally complex data,11
+18,445880,1016041,,,
+,,1064455,,,
+,,1785009,,,
+19,366041,1403143,"Huo, L.: Study on key techniques of media streaming over the internet, Ph.D. dissertation,Graduate University of Chinese Academy of Sciences (2006)", Study on key techniques of media streaming over the internet,2
+,,1403144,,,
+,,1403151,,,
+20,273876,946389,"Hoare CAR. Structured programming in introductory programming courses. State of the Art Report on Structured Programming. InfoTech International: Jacksonville, FL, 1976",,2
+,,978996,,,
+,,1411795,,,
+21,256987,979278,"Hennessy, M. and J. Riely, Resource access control in systems of mobile agents, Information and Computation 173:1 (2002), pp. 82–120.",Resource access control in systems of mobile agents,206
+,,1399493,"Broersen, J., Wieringa, R., Meyer, J.J.C.: A fixed-point characterization of a deontic logic of regular action. Fundam. Inf. 48, 107-128 (2001)",A fixed-point characterization of a deontic logic of regular action.,11
